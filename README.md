@@ -15,7 +15,7 @@
   <p>baseando-se nas existentes em C, como: printf, Atoi, Itoa, Strcmp, strncat, etc.
     
   <p>Em resumo, aprendi a magnitudo de C, e o funcionamento das linguagens bit a bit. 
-  <h2>Só tenho a agradecer essa oportunidade imensurável, Obrigado 42_SãoPualo!</h2>
+  <h2>Só tenho a agradecer essa oportunidade imensurável, Obrigado 42_SãoPaulo!</h2>
     
     
 <h1>Autor</h1>
