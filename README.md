@@ -11,7 +11,7 @@
   <p>Basecamp de imersão por 20 dias, onde se é exigido cerca de 12 a 14 hrs diárias de dedicação.
     
   <p>Nesta etapa do processo, aprendi, chorei, desenvolvi, ensinei e sobrevivi, hehe... foram 20 dias incŕiveis,
-  <p>com um aprofundamento na linguagem C, Shell e Lógica de progamação Deselvolvendo nossas próprias funções
+  <p>com um aprofundamento na linguagem C, Shell e Lógica de progamação. Deselvolvendo nossas próprias funções
   <p>baseando-se nas existentes em C, como: printf, Atoi, Itoa, Strcmp, strncat, etc.
     
   <p>Em resumo, aprendi a magnitudo de C, e o funcionamento das linguagens bit a bit. 
